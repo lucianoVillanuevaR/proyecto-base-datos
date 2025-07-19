@@ -67,7 +67,7 @@ Y corresponden a las consultas pedidas en el enunciado del proyecto (Etapa 2).
 ```
 .
 ├── db.js
-├── .env               # No se sube a GitHub
+├── .env               
 ├── ingresarAlumno.js
 ├── modificarAlumno.js
 ├── ejecutarConsultaQ1.js
