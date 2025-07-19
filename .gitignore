@@ -1,0 +1,12 @@
+
+.env
+
+# Node modules (se pueden volver a instalar con npm install)
+node_modules/
+
+# Logs
+*.log
+
+# Opcional: Archivos temporales 
+.vscode/
+
