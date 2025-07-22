@@ -116,9 +116,8 @@ Una vez restaurada, ya puedes ejecutar la aplicación desde terminal como se ind
 
 ---
 
-## 👤 Autores
+## 👤 Autor
 
-Luciano Villanueva R.  
-Francisco Flores  
+Luciano Villanueva R. 
 Universidad del Bío-Bío  
 Trabajo final – Base de Datos
